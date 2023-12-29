@@ -14,7 +14,7 @@ public class Test {
         delete();
 //        getAll();    //after deleting
     }
-    add product
+
     static void add(){
         ProductService s = new ProductServiceImpl();
         char flag ;
